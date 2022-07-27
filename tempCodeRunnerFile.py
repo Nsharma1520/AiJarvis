@@ -1,0 +1,1 @@
+print(str(os.startfile(os.path.join(music_dir, songs[songNumer]))))
